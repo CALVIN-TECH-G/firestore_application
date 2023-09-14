@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998947725110",
+    "project_id": "firestore-application-one",
+    "storage_bucket": "firestore-application-one.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998947725110:android:cc2b6996216485655c5d97",
+        "android_client_info": {
+          "package_name": "com.odoobocalvin.firestore_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Ikc9JDg7MP01jJo0jnPG6i1l3TyNW-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
